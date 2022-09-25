@@ -1,0 +1,8 @@
+Another attempt at an Amiga framework
+
+this time utilising mostly Amiga Libraries.
+
+Using c++ oop features to customise the Amiga.Graphics library structures
+
+CustomView inherits View 
+and is the main work horse with creating applications with this custom class
