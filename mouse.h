@@ -7,7 +7,7 @@
 
 class GamePort
 {
-	public:
+public:
 	IOStdReq *game_io_msg = NULL;
 	MsgPort *msgPort;
 	InputEvent *inputEvent;
@@ -53,7 +53,7 @@ class GamePort
 		DoIO((IORequest*)game_io_msg);
 	}
 
-	private:
+private:
 	void GetControllerType()
 	{
 		Forbid();
