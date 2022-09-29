@@ -1,3 +1,4 @@
+#pragma once
 #include <proto/exec.h>
 #include <exec/exec.h>
 #include <devices/gameport.h>
