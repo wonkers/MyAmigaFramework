@@ -1,5 +1,7 @@
 Another attempt at an Amiga framework
 
+Only Valid with the Amiga Plugin on VS Code
+
 this time utilising mostly Amiga Libraries.
 
 Using c++ oop features to customise the Amiga.Graphics library structures
